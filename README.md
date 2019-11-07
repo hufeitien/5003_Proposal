@@ -2,7 +2,7 @@
 This is a proposal for my 5003 final project.
 
 ## Summary  
-* I am designing a website for people to communicate with whom they miss a lot but no longer have a chance to talk to them physically. I often imagine that there might be a certain kind of secret space, such as a parallel universe that can connect the people on earth and the deceased one in the afterlife world. Users can write an email on the site, embed photos, and create their customized letter to their deceased ones. They can choose to download this letter to their local or email to themselves on the day they hope to receive. I hope to create a space that helps people deliver their messages to their deceased ones and make them feel therapeutic.
+* I am designing a website for people to communicate with those whom they miss a lot but no longer have a chance to talk to physically. I often imagine that there might be a certain kind of secret space, such as a parallel universe that can connect the people on earth and the deceased one in the afterlife world. Users can write an email on the site, embed photos, and create their customized letter to their deceased ones. They can choose to download this letter to their local or email to themselves on the day they hope to receive. I hope to create a space that helps people deliver their messages to their deceased ones and make them feel therapeutic.
 
 * This website is in memory of my beloved grandparents.
 
