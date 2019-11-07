@@ -8,7 +8,7 @@ This is a proposal for my 5003 final project.
 
 ## Inspiration
 
-As a novice designer & a teacher who enjoys embracing challenges ahead yet gets nervous easily, I have always been interested in things that can calm people’s minds and heal their hearts. Inspired by religious rituals in Taiwan and a computer-animated film Coco, I want to explore the world of the afterlife, and the way to communicate with our loved ones who had passed away. My beloved grandparents who raised me in my childhood left me 5 years ago and 1 year ago respectively. I often think of them and cannot help but burst into tears while I am alone. Multiple research has shown that writing can heal and can serve as a therapy. Whenever I think of them, I write, and I found that writing down what I want to say to them helps me deal with sadness.
+As a novice designer & a teacher who embraces challenges yet tends to get nervous easily, I have always been interested in things that can calm people’s minds and heal their hearts. Inspired by religious rituals in Taiwan and a computer-animated film Coco, I want to explore the world of the afterlife, and the way to communicate with our loved ones who had passed away. My beloved grandparents who raised me in my childhood left me 5 years ago and 1 year ago respectively. I often think of them and cannot help but burst into tears while I am alone. Multiple research has shown that writing can heal and can serve as a therapy. Whenever I think of them, I write, and I found that writing down what I want to say to them helps me deal with sadness.
 
 I would like my audience to interact with my website by writing letters to someone they miss a lot but might no longer have a chance to meet them physically. I would like them to feel therapeutic.
 
