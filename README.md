@@ -31,7 +31,7 @@ I would like my audience to interact with my website by writing letters to someo
 
 ## Process
 I teach myself by googling and watching Youtube tutorials. However, there are still some issues with my codes that hinder me from implementing the auto typing effect. I think I need to spend more time finding out the bugs on my project and figuring out what exactly was going on. About how to let users automatically create a customized letter (i.e. automatically create a poster with their words and photo on it.), I still have no idea how to make it since I am not very sure about the keywords I should use on Google search engome. I think I will need to consult Zhenzhen or other experienced classmates to figure out if this is something within my capacity.
-* (P.S. There should be some auto typing effect on the screenshot below, but d
+* (P.S. There should be some auto typing effect on the screenshot below, but
 due to some bugs in my code, I haven’t figured out how to adjust them yet. I will keep working on this until I fix it. Details can be seen in the code.)
 
 ![Process](initialprocess.jpeg)
