@@ -14,7 +14,23 @@ I would like my audience to interact with my website by writing letters to someo
 
 * Technically, I think these are the steps needed to test my concept: I need to figure out how to make interactive tables and beautiful buttons, how to make it automatically form a poster based on the words and photos provided by users, and how to create an auto tying effect on the landing page.
 
-* I have researched into a few similar projects, such as [futureme](https://www.futureme.org/) and [the typing effect from this website: ](http://dataf.org/en/). I think in the next few weeks, I would like to use the class time to find out how to create a beautiful letter writing table on the webpage and integrate JS interactive elements to make it automatically form a customized poster. Visually, I would like my piece to look like a beautiful imagery afterlife world with a mailbox that can link me and deceased ones in the two parallel universe.  
+* I have researched into a few similar projects, such as [futureme](https://www.futureme.org/) and [the typing effect on the landing page of this website](http://dataf.org/en/). I think in the next few weeks, I would like to use the class time to find out how to create a beautiful letter writing table on the webpage and integrate JS interactive elements to make it automatically form a customized poster. Visually, I would like my piece to look like a beautiful imagery afterlife world with a mailbox that can link me and deceased ones in the two parallel universe.  
 
 * Some Visual References:
 ![Parallel Universe](parallelUniverse.jpg)
+![Parallel Universe](parallelUniverse2.jpg)
+![Parallel Universe](parallelUniverse3.jpg)
+![Typing Effect](typingEffect.jpeg)
+![WritingLetter](Futureme.jpeg)
+
+
+## Reference
+[FutureMe] (https://www.futureme.org/)
+[Data Fork] (http://dataf.org/en/)
+
+## Process
+I teach myself by googling and watching Youtube tutorials. However, there are still some issues with my codes that hinder me from implementing the auto typing effect. I think I need to spend more time finding out the bugs on my project and figuring out what exactly was going on. About how to let users automatically create a customized letter (i.e. automatically create a poster with their words and photo on it.), I still have no idea how to make it since I am not very sure about the keywords I should use on Google search engome. I think I will need to consult Zhenzhen or other experienced classmates to figure out if this is something within my capacity.
+* (P.S. There should be some auto typing effect on the screenshot below, but d
+due to some bugs in my code, I haven’t figured out how to adjust them yet. I will keep working on this until I fix it. Details can be seen in the code.)
+
+![Process](initial process.jpeg)
