@@ -1,34 +1,24 @@
-const TypeWriter = function(txtElement, words, wait = 3000) {
-  this.txtElement = txtElement;
-  this.words = words;
-  this.txt = "";
-  this.wordIndex = 0;
-  this.wait = parseInt(wait, 10);
-  this.type();
-  this.isDeleting = false;
+
+
+ityped.init('#ityped', {
+    strings:['that connects you and your deceased loved ones.', 'where you can send messages to your loved ones', 'where you can tell secrets without revealing yourself'],
+    startDelay: 200,
+    loop: true
+  });
+
+function ShowTheMessage() {
+  var NameOfSomeone = document.getElementById("ToSomeone");
 }
 
-TypeWriter.prototype.type = function() {
+function send(){
+var user= document.querySelector("#ToSomeone").value;
+var content=
+document.querySelector("textarea").value;
 
-  const current = this.wordIndex % this.words.length;
-  const fullTxt = this.words[current];
-  if(this.isDeleting){
-    this.txt = fullTxt.substring(0, this.txt.length -1);
-  } else{
-    this.txt = fullTxt.substring(0, this.txt.length +1);
-  }
+var output= "Dear "+user+","+content;
 
-  this.txtElement.innerHTML = '<span class="txt">${this.txt}</span>';
+var letter=document.querySelector("#DearMessage")
 
-  setTimeout(() => this.type(), 500)
-}
+letter.innerHTML=output;
 
-document.addEventListener('DOMContentLoaded', init);
-
-function init() {
-  const txtElement = document.querySelector('.txt-type');
-  const words = JSON.parse(txtElement.getAttribute('data-words'));
-  const wait = txtElement.getAttribute('data-wait');
-
-  new TypeWriter(txtElement, words, wait);
 }
