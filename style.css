@@ -1,57 +1,96 @@
 ＠import url('https://fonts.googleapis.com/css?family=Raleway&display=swap');
 
+* {
+  box-sizing: border-box;
+}
+
 body {
-  font-family: 'Raleway', sans-serif;
-  height: 100vh;
-  background: #333 url('./img/imaginaryuniverse.jpg') no-repear center center / cover;
-  color: #ccc;
-  background-image: url('./img/imaginaryuniverse.jpg');
-  overflow: hidden;
+  margin: 0;
+  font-family: Arial;
+  font-size: 17px;
 }
 
-.container {
+
+#backgroundVideo {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
+
+}
+
+.mark1 {
   display: flex;
-  flex-direction: column;
-  justify-content: center;
-  height: 100%;
-  padding: 0 3rem;
+}
+.mark2 {
+  flex-grow:1;
+}
+.mark3 {
+  box-sizing: border-box;
+  width: 100%;
+}
+
+
+.intro{
+  text-align: center;
+  position: relative;
+  color: #fff;
+  width: 100%;
 
 }
 
-h1, h2 {
-  font-weight: 200;
-  margin: 0.4rem;
+
+.left {
+  background-color: #81D8D0;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  padding: 30px;
+}
+
+
+
+.ityped-cursor {
+    font-size: 2.2rem;
+    opacity: 1;
+    -webkit-animation: blink 0.3s infinite;
+    -moz-animation: blink 0.3s infinite;
+    animation: blink 0.3s infinite;
+    animation-direction: alternate;
+}
+
+@keyframes blink {
+    100% {
+        opacity: 0;
+    }
+}
+
+@-webkit-keyframes blink {
+    100% {
+        opacity: 0;
+    }
+}
+
+@-moz-keyframes blink {
+    100% {
+        opacity: 0;
+    }
+}
+
+.container{
+  display: flex;
 }
 
 h1{
-  font-size: 3.5rem;
+  color: black;
 }
 
-h2{
-  font-size: 2rem;
-  color: #aaa;
+.left{
+width: 30%;
 }
 
-@media(min-width: 1200px) {
-  h1 {
-    font-size: 5rem;
-  }
-}
+.right{
+width: 70%;
 
-@media(max-width: 800px) {
-.container {
-  padding: 0 1 rem;
-}
-  h1 {
-    font-size: 3rem;
-  }
-}
-
-@media(max-width: 500px) {
-  h1 {
-    font-size: 2.5rem;
-  }
-  h2 {
-    font-size: 1.5rem;
-  }
 }
