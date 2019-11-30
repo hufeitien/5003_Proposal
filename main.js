@@ -15,7 +15,7 @@ var user= document.querySelector("#ToSomeone").value;
 var content=
 document.querySelector("textarea").value;
 
-var output= "Dear "+user+","+content;
+var output= "Dear "+user+","+"<br/>"+content;
 
 var letter=document.querySelector("#DearMessage")
 
